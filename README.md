@@ -61,7 +61,7 @@ vi /etc/hostname
 cat /etc/hostname
 ```
 
-### REG NUMBER: 212222040096
+### REG NUMBER: 212222040069
 ### NAME: KALPANA S
 
 ## OUTPUT
